@@ -1,1 +1,1 @@
-# Quiz-Lightning
+# Lightning-Game
